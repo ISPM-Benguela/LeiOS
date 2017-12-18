@@ -48,7 +48,7 @@ NOTA: Esta é uma parte do documento que terá actualizações constantes, por i
 
 ## Licença
 
-Este projecto tem usa a licença da MIT - podes ver [aqui](LICENSE.md), para mais detalhes.
+Este projecto usa a licença da MIT - podes ver [aqui](LICENSE.md), para mais detalhes.
 
 ## Objectivo
 
