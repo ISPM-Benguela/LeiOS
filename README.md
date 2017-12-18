@@ -1,88 +1,68 @@
-# Project Title
+# LeiOS
 
-One Paragraph of project description goes here
+LeiOS é um sistema Operativo Linux, que está sendo desenvolvido pela LEI, e está previsto para o lançamento da primeira versao em Junho de 2018.
 
-## Getting Started
+## Porque Mais Um OS
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+A LEI é uma organização dos Estudantes de Informática e ela foi fundada no [Instituto Superior Politecnico Maravilha](ispmaravilha.co.ao) em Novembro de 2017, e tem como objectivo, de motivar os estudantes de informatica a criar, pesquisar e acima de tudo desenvolver habilidades necessária que se requer a um Enginheiro Informático enquanto  estudante.
 
-### Prerequisites
+Sendo assim enquanto estudantes de Informática, estamos a desenvolver este [Sistema Operativo](https://pt.wikipedia.org/wiki/Sistema_operativo) não só para aprender mais sobre o assunto mais também para que nós enquanto estudantes de Informática poçamos criar coisas que venham a ser usadas no dia a dia das pessoas.
 
-What things you need to install the software and how to install them
+### Como vai Funcionar
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+A LeiOS nas suas primeiras versões será um sistema voltado aõs programadores e enginheiros de segurança, mais qualquer um poderá usar sem problema, os seus pacotes de instalação será baseado no [Debian](https://www.debian.org/), isso quer dezir que os aplicativos do Debian e ubuntu principalmente poderão ser instalados também na LeiOS.
 
 ```
-Give the example
+ sudo apt-get update
+ sudo apt-get install gimp
+ sudo dpkg -i xdman.deb
 ```
 
-And repeat
+### Modo de Instalação
 
-```
-until finished
-```
+Quando o sistema for lançado terá uma pagina web para descarregar o iso.
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ### And coding style tests
 
 Explain what these tests test and why
 
-```
-Give an example
-```
+## Mode de construção
 
-## Deployment
+A LeiOS e baseada nas seguintes ferramentas e tecnologias:
 
-Add additional notes about how to deploy this on a live system
+* [Linux Scratch](http://www.linuxfromscratch.org/) - 
+O Linux From Scratch (LFS) é um projeto que fornece instruções passo a passo para criar seu próprio sistema Linux personalizado, inteiramente a partir do código-fonte.
 
-## Built With
+* [dpkg](https://www.debian.org/doc/manuals/debian-faq/ch-pkgtools.en.html) - As ferramentas de gerenciamento de pacotes Debian
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+## Como Contribuir
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+NOTA: Esta é uma parte do documento que terá actualizações constantes, por isso encorajamos - te sempre que poder,  visitar esta parte do documento caso estiveres intereçado (a) em poder contribuir se os meios despunivel  de contribuiçóes não se enquadrar com a tua realidade do momento.
 
-## Versioning
+* Podes começar a desenvolver aplicativos para o sistema ex:Apps para Multimedias, internete, ferramentas de programação, seguração etc.
+* Podes criar issues para sugerir novas ideias
+* Criar um site para o sistema
+* Se resides em Benguela nos procura a nossa organização no Instituto Superior Politecnico Maravilha para entrares em contacto directo com o projecto
+* Ou escreve para nós technova009@gmail.com ou jose.tandavala@gmail.com
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Autores
 
-## Authors
+[L.E.I](https://github.com/ISPM-Benguela)
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+## Licença
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Este projecto tem usa a licença da MIT - podes ver [aqui](LICENSE.md), para mais detalhes.
 
-## License
+## Objectivo
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
+* Criar Um OS Para informáticos e não só
+* Inspirar
 * etc
 ``````````
