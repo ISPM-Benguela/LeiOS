@@ -22,16 +22,6 @@ A LeiOS nas suas primeiras versões será um sistema voltado aõs programadores 
 
 Quando o sistema for lançado terá uma pagina web para descarregar o iso.
 
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-
-### And coding style tests
-
-Explain what these tests test and why
-
 ## Mode de construção
 
 A LeiOS e baseada nas seguintes ferramentas e tecnologias:
